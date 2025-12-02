@@ -8,5 +8,6 @@ public class GitPractice {
         System.out.println("From Offshore Team");
         System.out.println("From Onsite Develop branch Team");
         System.out.println("From Develop branch Team");
+        System.out.println("Offshore Team again added in Dev branch");
     }
 }
