@@ -6,5 +6,7 @@ public class GitPractice {
         System.out.println("Second Time Added in Git Demo");
         System.out.println("From Offshore Team");
         System.out.println("From Offshore Team");
+        System.out.println("From Onsite Develop branch Team");
+        System.out.println("From Develop branch Team");
     }
 }
